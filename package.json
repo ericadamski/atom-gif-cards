@@ -3,11 +3,11 @@
   "main": "./lib/atom-gif-cards",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [],
+  "keywords": ["gifs", "gif search", "funny"],
   "activationCommands": {
     "atom-workspace": "atom-gif-cards:toggle"
   },
-  "repository": "https://github.com/atom/atom-gif-cards",
+  "repository": "https://github.com/ericadamski/atom-gif-cards",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
