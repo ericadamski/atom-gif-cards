@@ -1,9 +1,13 @@
 {
   "name": "atom-gif-cards",
   "main": "./lib/atom-gif-cards",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": ["gifs", "gif search", "funny"],
+  "keywords": [
+    "gifs",
+    "gif search",
+    "funny"
+  ],
   "activationCommands": {
     "atom-workspace": "atom-gif-cards:toggle"
   },
