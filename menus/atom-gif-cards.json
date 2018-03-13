@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Get Some Gif Cards!",
+        "command": "atom-gif-cards:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "GIF Cards",
+          "submenu": [
+            {
+              "label": "Get Some Gif Cards!",
+              "command": "atom-gif-cards:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
